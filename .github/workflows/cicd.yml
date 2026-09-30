@@ -38,6 +38,6 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/Shibin-Raju/online-banking-app:latest
+          tags: ghcr.io/shibin-raju/online-banking-app:latest
 
 # CI/CD workflow for publishing the banking container
