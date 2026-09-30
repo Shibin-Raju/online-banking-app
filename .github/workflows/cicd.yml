@@ -38,5 +38,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/shibin-raju/online-banking-app:latest
+          tags: ghcr.io/Shibin-Raju/online-banking-app:latest
 
